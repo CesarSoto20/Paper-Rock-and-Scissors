@@ -88,3 +88,10 @@ function playGame() {
     }
 }
 playGame()
+
+
+
+
+
+
+// This is the test ok 
